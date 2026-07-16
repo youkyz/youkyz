@@ -1,1 +1,1 @@
-https://invite.linuxdo.org/
+https://github.com/sessions/recovery
