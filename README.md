@@ -1,1 +1,1 @@
-https://github.com/sessions/recovery
+https://github.com/settings/profile
